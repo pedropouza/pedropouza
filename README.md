@@ -2,7 +2,7 @@
 
 - Meu nome é Pedro e sou um desenvolvedor FullStack de Santos, São Paulo. 
 - Amo programar e meu objetivo é criar aplicativos úteis e de fácil utilização, com interface sempre agradável em todos os dispositivos.
-- Atualmente estudo na OneBitCode para FullStack JavaScript 💛, logo em seguida será Python 🐍 e Ruby 🔻
+- Atualmente estudo na OneBitCode para FullStack JavaScript 💛, logo em seguida será a trilha de Python 🐍 e Ruby 🔻
 
 <a href="#">
 <img src="https://media1.tenor.com/m/wPudCfjCrD8AAAAd/penguin-hello.gif" title="hello" width="335" height="243" align="right" alt="Hello, there!">
